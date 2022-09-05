@@ -57,29 +57,11 @@
       "descricao": "Meu primeiro sketchbook artesanal produzido. Finalizado com nanquim.",
       "criado": "",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/whale_sketch.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/whale_thumbnail.jpg",
-      "categoria": ["covers", "all"]
-    },
-    {
-      "titulo": "Sketchbook diário",
-      "descricao": "Eu gosto de viajar, desenhar paisagens, guardar essas recordações em um lugar especial. Nada melhor que um sketchbook mochileiro artesanal.",
-      "criado": "",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/diario_sketch.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/diario_thumbnail.jpg",
-      "categoria": ["covers", "all"]
-    },
-    {
-      "titulo": "Sketchbook Crânio",
-      "descricao": "Admito gostar de motos e coisas de motoclubes em geral. Acredito ter sido a inspiração para essa arte.",
-      "criado": "",
-      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/whale_sketch.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/diario_sketch.png",
         "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/skull_sketch.png"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/skull_thumbnail.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/whale_thumbnail.jpg",
       "categoria": ["covers", "all"]
     },
     {
