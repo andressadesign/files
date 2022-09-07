@@ -95,85 +95,36 @@
       "categoria": ["drawings", "all"]
     },
     {
-      "titulo": "Anã",
-      "descricao": "Excelente estrategista. A guerreira é a especialista na forja de armas e armaduras usadas em suas terras.",
+      "titulo": "RPG Cards",
+      "descricao": "10 personagens desenvolvidos para cards de RPG.",
       "criado": "Out/2021",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/ana.jpg"
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/ana1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/ana2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/anao1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/anao2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/elfo1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/elfo2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/elfa1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/elfa2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/goblin1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/goblin2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/goblin3.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/gnomo1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/gnomo2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/gnomo3.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/dragao1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/dragao2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/mago1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/mago2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/mago3.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc3.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc-bom1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc-bom2.jpg"
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/ana_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Mago",
-      "descricao": "Um domador dos ares, um mago do bem, defensor dos espíritos voadores.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/mago.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/mago_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Anão Bárbaro",
-      "descricao": "Inspirado em 'O Senhor dos Anéis', surge um pequeno guerreiro, forte e corajoso.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/anao.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/anao_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Elfo",
-      "descricao": "Elfo de poucas palavras, com seu olhar enigmático, enfrentando qualquer desafio pelo amor.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/elfo.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/elfo_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Arqueira Elfo",
-      "descricao": "A lendária caçadora da terra dos elfos. Representa a força, determinação e destreza feminina.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/elfa.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/elfa_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Orc",
-      "descricao": "Morador das terras distantes, representando a força e a fúria de sua nação.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/orc.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/orc_det01.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/orc_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Gnomo",
-      "descricao": "Esperto e industrioso, fabricante de bombas de gás para proteção de seu povo e seus tesouros.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/gnomo.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/gnomo_det01.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/gnomo_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Goblin",
-      "descricao": "Com um coração maléfico e intenções duvidosas, o goblin aterroriza qualquer um que cruze seu caminho.",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/goblin.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/goblin_thumbnail.jpg",
       "categoria": ["drawings", "all"]
     }
   ]
