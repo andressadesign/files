@@ -53,18 +53,6 @@
       "categoria": ["visual-id", "all"]
     },
     {
-      "titulo": "Capas Sketchbook",
-      "descricao": "Ilustrações feitas em nanquim e sketchbooks artesanais.",
-      "criado": "",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/whale_sketch.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/diario_sketch.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/skull_sketch.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/whale_thumbnail.jpg",
-      "categoria": ["covers", "all"]
-    },
-    {
       "titulo": "Capitanos",
       "descricao": "Esse eu fiz durante a participação de um concurso promovido por 'As Crônicas de Wesley'",
       "criado": "",
@@ -123,6 +111,24 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc3.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc-bom1.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/orc-bom2.jpg"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/ana_thumbnail.jpg",
+      "categoria": ["drawings", "all"]
+    }
+    {
+      "titulo": "Robos 2",
+      "descricao": "Projeto acadêmico desenvolvido para Uninter afim de estudos e práticas. O objetivo foi criar um novo personagem para o filme Robots 2, fictício. Projeto de 6 etapas. A 1° foi dedicada ao levantamento e coleta de informações sobre o filme e seu universo, a 2° com painés semanticos e direcionamento visual do design original, já a 3° etapa foi dedicada ao público-alvo, 4° e 5° tivemos o brainstorm e a geração de alternativas e finalizamos com o passe para o digital do personagem escolhido. O novo personagem, se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo. Há um jogo com o nome e a personalidade, ele é chamado de Friagem, por ser uma geladeira, mas é simpático e receptivo com todos",
+      "criado": "Jul/2022",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/brainstorm.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/estudo.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa1.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa2.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa3.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa4.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa5.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/expressoes.jpg"
+        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/ana_thumbnail.jpg",
       "categoria": ["drawings", "all"]
