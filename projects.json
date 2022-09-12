@@ -63,13 +63,17 @@
       "categoria": ["drawings", "all"]
     },
     {
-      "titulo": "Capoeira",
-      "descricao": "projeto autoral. Uma roda de capoeira amigável.",
+      "titulo": "Estampa bebida chocolate cookie",
+      "descricao": "Projeto autoral, onde desenvolvi a ilustração de uma bebida sabor chocolate quente e cookie. Para momentos quentes e frios.",
       "criado": "",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/capoeira.jpg"
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie05.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie01.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie02.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie03.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie04.jpg"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/capoeira_thumbnail.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie-thumb.jpg",
       "categoria": ["drawings", "all"]
     },
     {
