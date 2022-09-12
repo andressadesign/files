@@ -67,11 +67,12 @@
       "descricao": "Projeto autoral, onde desenvolvi a ilustração de uma bebida sabor chocolate quente e cookie. Para momentos quentes e frios.",
       "criado": "",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie05.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie03.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/chocolate-cookie04.jpg"
+        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie05.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie01.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie02.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie03.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie04.jpg"
+        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie-thumb.jpg",
       "categoria": ["drawings", "all"]
