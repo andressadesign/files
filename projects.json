@@ -52,16 +52,7 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-00.png",
       "categoria": ["visual-id", "all"]
     },
-    {
-      "titulo": "Capitanos",
-      "descricao": "Esse eu fiz durante a participação de um concurso promovido por 'As Crônicas de Wesley'",
-      "criado": "",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/capivara.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/capivara_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
+   
     {
       "titulo": "Estampa bebida chocolate cookie",
       "descricao": "Projeto autoral, onde desenvolvi a ilustração de uma bebida sabor chocolate quente e cookie. Para momentos quentes e frios.",
@@ -77,16 +68,7 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie-thumb.jpg",
       "categoria": ["drawings", "all"]
     },
-    {
-      "titulo": "Acampamento",
-      "descricao": "Acampamento, aventura e boas amizades. A natureza trás um sentimento libertador, a arte também.",
-      "criado": "",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/acampamento.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/illustrations/acampamento_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
+    
     {
       "titulo": "RPG Cards",
       "descricao": "10 personagens desenvolvidos com o propósito de compor coleção online de card game no estilo TCG (Trading Cards Games). Desenvolvidos para cada carta ser um NFT. Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
