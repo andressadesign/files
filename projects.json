@@ -74,7 +74,11 @@
       "descricao": "10 personagens desenvolvidos com o propósito de compor coleção online de card game no estilo TCG (Trading Cards Games). Desenvolvidos para cada carta ser um NFT. Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
       "criado": "Out/2021",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas02.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas03.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas04.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas01.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-ana.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-anao.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-dragao.jpg",
@@ -85,11 +89,7 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-mago.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc01.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas03.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas04.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg"
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg"
         
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
