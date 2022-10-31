@@ -7,10 +7,22 @@
       "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/capa-note-baleia.png"
     },
     {
+      "title": "Capa Kindle",
+      "collection": "Jubarte",
+      "url": "https://querodobra.com.br/produto/capa-kindle-jubah/?ref=3527",
+      "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/capa-kindle-baleia.png"
+    },
+    {
       "title": "Carteira",
       "collection": "Jubarte",
       "url": "https://querodobra.com.br/produto/nova-jubah/?ref=3527",
       "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/carteira-baleia.png"
+    },
+    {
+      "title": "Porta Cartão",
+      "collection": "Jubarte",
+      "url": "https://querodobra.com.br/produto/cartao-jubah/?ref=3527",
+      "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/porta-cartao-baleia.png"
     },
     {
       "title": "Necessaire",
@@ -43,10 +55,22 @@
       "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/necessaire-gato.png"
     },
     {
+      "title": "Capa Kindle",
+      "collection": "Coruja",
+      "url": "https://querodobra.com.br/produto/capa-kindle-cow/?ref=3527",
+      "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/capa-kindle-coruja.png"
+    },
+    {
       "title": "Poster Adesivo",
       "collection": "Coruja",
       "url": "https://querodobra.com.br/produto/lambe-a3-cow/?ref=3527",
       "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/adesivo-coruja.png"
+    },
+    {
+      "title": "Porta Óculos",
+      "collection": "Amigas corujas",
+      "url": "https://querodobra.com.br/produto/porta-oculos-amigas-corujas/?ref=3527",
+      "imageUrl": "https://raw.githubusercontent.com/andressadesign/files/main/images-produtos/porta-oculos-corujas.png"
     }
   ]
 }
