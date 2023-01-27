@@ -2,20 +2,6 @@
   "projects":
   [
     {
-      "titulo": "Engenheiro",
-      "descricao": "Logotipo desenvolvido para engenheiro civil.",
-      "criado": "2019",
-      "imagens": [
-        
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-02.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-03.png"
-        
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-00.png",
-      "categoria": ["visual-id", "all"]
-    },
-    {
       "titulo": "Gioia",
       "descricao": "Identidade visual desenvolvida para Gioia Ateliê de Doces. O projeto consistiu em criar elementos visuais para facilitar a conexão e manter um padrão sofisticado. O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes). Então foi pensando no nome Gioia que significa alegria (italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria. Símbolo único, simples, delicado e cheio de significados",
       "criado": "2022",
@@ -36,6 +22,22 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/gioia-reduzido/Prancheta-00.png",
       "categoria": ["visual-id", "all"]
     },
+    
+    {
+      "titulo": "Engenheiro",
+      "descricao": "Logotipo desenvolvido para engenheiro civil.",
+      "criado": "2019",
+      "imagens": [
+        
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-01.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-02.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-03.png"
+        
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-00.png",
+      "categoria": ["visual-id", "all"]
+    },
+    
     {
       "titulo": "Mr. Dash",
       "descricao": "Pojeto autoral de Identidade Visual desenvolvida para pizzaria. Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação-",
