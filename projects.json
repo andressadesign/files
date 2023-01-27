@@ -23,21 +23,21 @@
     },
     {
       "titulo": "Mr. Dash",
-      "descricao": "Identidade Visual -",
+      "descricao": "Pojeto autoral de Identidade Visual desenvolvida para pizzaria. Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação-",
       "criado": "2021",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-05.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-07.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-08.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-09.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-10.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-11.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-12.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-13.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-14.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-15.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-17.png"
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-01.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-02.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-03.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-04.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-05.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-06.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-07.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-08.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-09.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-10.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-11.png"
+        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-00.png",
       "categoria": ["visual-id", "all"]
