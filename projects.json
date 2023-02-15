@@ -40,7 +40,7 @@
     
     {
       "titulo": "Mr. Dash",
-      "descricao": "Pojeto autoral de Identidade Visual desenvolvida para pizzaria. Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação-",
+      "descricao": "Projeto autoral de Identidade Visual desenvolvida para pizzaria. Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação",
       "criado": "2021",
       "imagens": [
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-01.png",
@@ -57,6 +57,19 @@
         
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-00.png",
+      "categoria": ["visual-id", "all"]
+    },
+    
+    {
+      "titulo": "Plantação Brasileira",
+      "descricao": "Projeto autoral de design e ilustração, em apoio a comunidade rural e agrária brasileira",
+      "criado": "2023",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-01.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-02.png
+        
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-00.png",
       "categoria": ["visual-id", "all"]
     },
    
