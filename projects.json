@@ -146,5 +146,17 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
       "categoria": ["drawings", "all"]
     }
+    {
+      "titulo": "Renunciar a si mesmo",
+      "descricao": "Projeto autoral de ilustração",
+      "criado": "Jan/2023",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta01.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta02.png"
+        
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta00.png",
+      "categoria": ["drawings", "all"]
+    }
   ]
 }
