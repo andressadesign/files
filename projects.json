@@ -130,6 +130,16 @@
       "categoria": ["drawings", "all"]
     },
     {
+      "titulo": "Rei e Lenhador",
+      "descricao": "Projeto acadêmico com o objetivo de desenvolver uma ilustração do pássaro do conto 'O rei e o lenhador'",
+      "criado": "Dec/2022",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta01.png"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta00.png",
+      "categoria": ["drawings", "all"]
+    },
+    {
       "titulo": "Porta Óculos",
       "descricao": "Ilustração desenvolvida para compor o produto porta óculos dobra",
       "criado": "Out/2021",
