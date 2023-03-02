@@ -113,6 +113,18 @@
       "categoria": ["drawings", "all"]
     },
     {
+      "titulo": "Porta Óculos",
+      "descricao": "Ilustração desenvolvida para compor o produto porta óculos dobra",
+      "criado": "Out/2021",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
+      "categoria": ["drawings", "all"]
+    },
+    {
       "titulo": "Robos 2",
       "descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme Robots 2, fictício. O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo. Há um jogo com o nome e a personalidade, ele é chamado de Friagem, por ser uma geladeira, mas é simpático e receptivo com todos",
       "criado": "Out/2022",
@@ -139,18 +151,7 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta00.png",
       "categoria": ["drawings", "all"]
     },
-    {
-      "titulo": "Porta Óculos",
-      "descricao": "Ilustração desenvolvida para compor o produto porta óculos dobra",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
-      "categoria": ["drawings", "all"]
-    },
+    
     {
       "titulo": "Renunciar a si mesmo",
       "descricao": "Projeto autoral de ilustração aprendizado com Cristo. Quando queremos alcançar algo maior precisamos deixar algumas coisas, que às vezes, nos parece bom, mas que não é. Pode estar no nosso passado e nos 'perseguir' como sombra, mas se mudarmos as luzes com certeza o que será projetado vai ser bem diferente. É isso que Cristo ensinou quando disse 'Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me'",
