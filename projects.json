@@ -67,7 +67,6 @@
       "imagens": [
         "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-01.png",
         "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-02.png"
-        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-00.png",
       "categoria": ["visual-id", "all"]
@@ -83,7 +82,6 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie02.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie03.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie04.jpg"
-        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie-thumb.jpg",
       "categoria": ["drawings", "all"]
@@ -110,7 +108,6 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc01.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc02.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg"
-        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
       "categoria": ["drawings", "all"]
@@ -128,7 +125,6 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa4.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa5.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/expressoes.jpg"
-        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
       "categoria": ["drawings", "all"]
@@ -141,11 +137,10 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
         "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
-        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
       "categoria": ["drawings", "all"]
-    }
+    },
     {
       "titulo": "Renunciar a si mesmo",
       "descricao": "Projeto autoral de ilustração",
@@ -153,7 +148,6 @@
       "imagens": [
         "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta01.png",
         "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta02.png"
-        
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta00.png",
       "categoria": ["drawings", "all"]
