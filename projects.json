@@ -146,7 +146,8 @@
       "descricao": "Projeto acadêmico com o objetivo de desenvolver uma ilustração do pássaro do conto 'O rei e o lenhador'",
       "criado": "Dec/2022",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta01.png"
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta01.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta02.png"
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta00.png",
       "categoria": ["drawings", "all"]
