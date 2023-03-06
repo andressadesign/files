@@ -163,6 +163,19 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta00.png",
       "categoria": ["drawings", "all"]
+    },
+    {
+      "titulo": "Todos têm lugar",
+      "descricao": "Projeto autoral de ilustração aprendizado com Cristo",
+      "criado": "Feb/2023",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta01.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta02.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta03.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta04.png"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta00.png",
+      "categoria": ["drawings", "all"]
     }
   ]
 }
