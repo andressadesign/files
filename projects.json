@@ -187,6 +187,16 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-sorvete/prancheta00.png",
       "categoria": ["drawings", "all"]
+    },
+    {
+      "titulo": "Férias",
+      "descricao": "",
+      "criado": "Feb/2023",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/ferias/prancheta01.png"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/ferias/prancheta00.png",
+      "categoria": ["drawings", "all"]
     }
   ]
 }
