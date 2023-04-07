@@ -3,6 +3,7 @@
   [
     {
       "titulo": "Gioia",
+      "tag": "gioia",
       "descricao": "Identidade visual desenvolvida para Gioia Ateliê de Doces. O projeto consistiu em criar elementos visuais para facilitar a conexão e manter um padrão sofisticado. O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes). Então foi pensando no nome Gioia que significa alegria (italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria. Símbolo único, simples, delicado e cheio de significados",
       "criado": "2022",
       "imagens": [
@@ -22,9 +23,9 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/gioia-reduzido/Prancheta-00.png",
       "categoria": ["visual-id", "all"]
     },
-    
     {
       "titulo": "Engenheiro",
+      "tag": "engineer",
       "descricao": "Logotipo desenvolvido para engenheiro civil.",
       "criado": "2019",
       "imagens": [
@@ -40,6 +41,7 @@
     
     {
       "titulo": "Mr. Dash",
+      "tag": "mr-dash",
       "descricao": "Projeto autoral de Identidade Visual desenvolvida para pizzaria. Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação",
       "criado": "2021",
       "imagens": [
@@ -62,6 +64,7 @@
     
     {
       "titulo": "Plantação Brasileira",
+      "tag": "plantacao-brasileira",
       "descricao": "Projeto autoral de design e ilustração, em apoio a comunidade rural e agrária brasileira",
       "criado": "2023",
       "imagens": [
@@ -75,6 +78,7 @@
    
     {
       "titulo": "Bebida chocolate cookie",
+      "tag": "hot-chocolate-cookie",
       "descricao": "Projeto autoral, onde desenvolvi a ilustração de uma bebida sabor chocolate quente e cookie. Para momentos quentes e frios.",
       "criado": "",
       "imagens": [
@@ -87,9 +91,9 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie-thumb.jpg",
       "categoria": ["drawings", "all"]
     },
-    
     {
       "titulo": "RPG Cards",
+      "tag": "rpg-cards",
       "descricao": "10 personagens desenvolvidos com o propósito de compor coleção online de card game no estilo TCG (Trading Cards Games). Desenvolvidos para cada carta ser um NFT. Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
       "criado": "Out/2021",
       "imagens": [
@@ -115,6 +119,7 @@
     },
     {
       "titulo": "Porta Óculos",
+      "tag": "owl-glasses",
       "descricao": "Ilustração desenvolvida para compor o produto porta óculos dobra",
       "criado": "Out/2021",
       "imagens": [
@@ -127,6 +132,7 @@
     },
     {
       "titulo": "Robos 2",
+      "tag": "robots-2",
       "descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme Robots 2, fictício. O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo. Há um jogo com o nome e a personalidade, ele é chamado de Friagem, por ser uma geladeira, mas é simpático e receptivo com todos",
       "criado": "Out/2022",
       "imagens": [
@@ -144,6 +150,7 @@
     },
     {
       "titulo": "Rei e Lenhador",
+      "tag": "the-king-and-the-lumberjack",
       "descricao": "Projeto acadêmico com o objetivo de desenvolver uma ilustração do pássaro do conto 'O rei e o lenhador'",
       "criado": "Dec/2022",
       "imagens": [
@@ -156,6 +163,7 @@
     
     {
       "titulo": "Renunciar a si mesmo",
+      "tag": "deny-yourself",
       "descricao": "Projeto autoral de ilustração aprendizado com Cristo. Quando queremos alcançar algo maior precisamos deixar algumas coisas, que às vezes, nos parece bom, mas que não é. Pode estar no nosso passado e nos 'perseguir' como sombra, mas se mudarmos as luzes com certeza o que será projetado vai ser bem diferente. É isso que Cristo ensinou quando disse 'Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me'",
       "criado": "Jan/2023",
       "imagens": [
@@ -167,6 +175,7 @@
     },
     {
       "titulo": "Todos têm lugar",
+      "tag": "all-have-place",
       "descricao": "Projeto autoral de ilustração aprendizado com Cristo",
       "criado": "Feb/2023",
       "imagens": [
@@ -180,6 +189,7 @@
     },
     {
       "titulo": "Sorveteria",
+      "tag": "ice-cream",
       "descricao": "Projeto autoral de ilustração em desenvolvimento",
       "criado": "Feb/2023",
       "imagens": [
@@ -190,6 +200,7 @@
     },
     {
       "titulo": "Férias",
+      "tag": "vacation",
       "descricao": "",
       "criado": "Feb/2023",
       "imagens": [
@@ -202,6 +213,7 @@
     },
     {
       "titulo": "Animação Frame by Frame",
+      "tag": "frame-by-frame-animation",
       "descricao": "Projetos de animação frame a frame",
       "criado": "Feb/2023",
       "imagens": [
