@@ -63,35 +63,6 @@
     },
     
     {
-      "titulo": "Plantação Brasileira",
-      "tag": "plantacao-brasileira",
-      "descricao": "Projeto autoral de design e ilustração, em apoio a comunidade rural e agrária brasileira",
-      "criado": "2023",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-02.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-03.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/platacao-br/prancheta-00.png",
-      "categoria": ["visual-id", "all"]
-    },
-   
-    {
-      "titulo": "Bebida chocolate cookie",
-      "tag": "hot-chocolate-cookie",
-      "descricao": "Projeto autoral, onde desenvolvi a ilustração de uma bebida sabor chocolate quente e cookie. Para momentos quentes e frios.",
-      "criado": "",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie05.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie03.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie04.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/chocolate-cookie/chocolate-cookie-thumb.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
       "titulo": "RPG Cards",
       "tag": "rpg-cards",
       "descricao": "Serviço de: Criação de personagem// Cliente: // Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// Técnica: Krita; PhotoShop// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
@@ -136,28 +107,12 @@
       "descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
       "criado": "Out/2022",
       "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/brainstorm.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/estudo.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa1.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa2.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa3.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa4.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/alternativa5.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/expressoes.jpg"
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png"
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Rei e Lenhador",
-      "tag": "the-king-and-the-lumberjack",
-      "descricao": "Projeto acadêmico com o objetivo de desenvolver uma ilustração do pássaro do conto 'O rei e o lenhador'",
-      "criado": "Dec/2022",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta02.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta00.png",
       "categoria": ["drawings", "all"]
     },
     
@@ -185,30 +140,6 @@
         "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta04.png"
       ],
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta00.png",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Sorveteria",
-      "tag": "ice-cream",
-      "descricao": "Projeto autoral de ilustração em desenvolvimento",
-      "criado": "Feb/2023",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-sorvete/prancheta01.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-sorvete/prancheta00.png",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Férias",
-      "tag": "vacation",
-      "descricao": "O corpo precisa de descanso, mas não adianta a mente ficar no trabalho.",
-      "criado": "Feb/2023",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/ferias/prancheta02.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/ferias/prancheta03.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/ferias/prancheta01.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/ferias/prancheta00.png",
       "categoria": ["drawings", "all"]
     },
     {
