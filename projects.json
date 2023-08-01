@@ -1,175 +1,169 @@
 {
-      "titulo": "RPG Cards",
-      "tag": "rpg-cards",
-      "descricao": "Serviço de: Criação de personagem// Cliente: // Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// Ferramenta: Krita; PhotoShop// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas03.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas04.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-ana.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-anao.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-dragao.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfa.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfo.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-gnomo.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-goblin.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-mago.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
-      "categoria": ["drawings", "all"]
-    },
+	"projects": [{
+			"titulo": "RPG Cards",
+			"tag": "rpg-cards",
+			"descricao": "Serviço de: Criação de personagem// Cliente: // Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// Ferramenta: Krita; PhotoShop// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
+			"criado": "Out/2021",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas02.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas03.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas04.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas01.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-ana.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-anao.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-dragao.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfo.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-gnomo.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-goblin.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-mago.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc01.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc02.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Robos 2",
+			"tag": "robots-2",
+			"descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
+			"criado": "Out/2022",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/desafio-discord-projeto-robo.gif"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "A Sobremesa",
+			"tag": "owl-glasses",
+			"descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.// Ferramenta: Krita",
+			"criado": "Out/2021",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-01-a-sobremesa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-02-a-sobremesa.jpg"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/thumb-a-sobremesa.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Porta Óculos",
+			"tag": "owl-glasses",
+			"descricao": "Ilustração desenvolvida para compor o produto porta óculos da Dobra.// Confira esse e outros produtos em parceria na página de produtos. :)",
+			"criado": "Out/2021",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Gioia",
+			"tag": "gioia",
+			"descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//Ferramenta: PhotoShop; Illustrator//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
+			"criado": "2022",
+			"imagens": [
 
-{
-      "titulo": "Robos 2",
-      "tag": "robots-2",
-      "descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
-      "criado": "Out/2022",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/desafio-discord-projeto-robo.gif"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-{
-      "titulo": "A Sobremesa",
-      "tag": "owl-glasses",
-      "descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.// Ferramenta: Krita",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-01-a-sobremesa.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-02-a-sobremesa.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/thumb-a-sobremesa.jpg",
-      "categoria": ["drawings", "all"]
-    },
-{
-      "titulo": "Porta Óculos",
-      "tag": "owl-glasses",
-      "descricao": "Ilustração desenvolvida para compor o produto porta óculos da Dobra.// Confira esse e outros produtos em parceria na página de produtos. :)",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
-      "categoria": ["drawings", "all"]
-    },
-{
-  "projects":
-  [
-    {
-      "titulo": "Gioia",
-      "tag": "gioia",
-      "descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//Ferramenta: PhotoShop; Illustrator//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
-      "criado": "2022",
-      "imagens": [
-        
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-03.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-04.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-05.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-06.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-07.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-08.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-09.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-10.png"
-        
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/gioia-reduzido/Prancheta-00.png",
-      "categoria": ["visual-id", "all"]
-    },
-    {
-      "titulo": "Engenheiro",
-      "tag": "engineer",
-      "descricao": "Serviço de: Logotipo// Cliente: Anderson Araujo// Ferramenta: Inkscape.",
-      "criado": "2019",
-      "imagens": [
-        
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-02.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-03.png"
-        
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-00.png",
-      "categoria": ["visual-id", "all"]
-    },
-    
-    {
-      "titulo": "Mr. Dash",
-      "tag": "mr-dash",
-      "descricao": "Serviço: Identidade visual; mascote; ilustração// Cliente: Projeto autoral// Objetivo: desenvolver ID completa para a pizzaria Mr. Dash.// OBS: Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação",
-      "criado": "2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-02.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-03.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-04.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-05.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-06.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-07.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-08.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-09.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-10.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-11.png"
-        
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-00.png",
-      "categoria": ["visual-id", "all"]
-    },
-        
-    {
-      "titulo": "Renunciar a si mesmo",
-      "tag": "deny-yourself",
-      "descricao": "Projeto autoral de ilustração aprendizado com Cristo.// Quando queremos alcançar algo maior precisamos deixar algumas coisas, que às vezes, nos parecem boas, mas que não são. Algo pode estar no nosso passado e nos 'perseguir' como uma sombra, mas se mudarmos as luzes com certeza o que será projetado vai ser bem diferente.// É isso que Cristo ensinou quando disse 'Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me'",
-      "criado": "Jan/2023",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta02.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta00.png",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Todos têm lugar",
-      "tag": "all-have-place",
-      "descricao": "Projeto autoral de ilustração aprendizado com Cristo",
-      "criado": "Feb/2023",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta01.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta02.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta03.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta04.png"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta00.png",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Animação Frame by Frame",
-      "tag": "frame-by-frame-animation",
-      "descricao": "Projetos de animação frame a frame",
-      "criado": "Feb/2023",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/morcego-animado2.gif",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/morcego-animado02.gif",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/aviao-pizza.gif",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/maquina-burguer.gif",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/mexican-food.gif"
-        
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/prancheta00.png",
-      "categoria": ["drawings", "all"]
-    }
-  ]
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-01.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-02.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-03.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-04.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-05.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-06.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-07.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-08.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-09.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-gioia/prancheta-10.png"
+
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/gioia-reduzido/Prancheta-00.png",
+			"categoria": ["visual-id", "all"]
+		},
+		{
+			"titulo": "Engenheiro",
+			"tag": "engineer",
+			"descricao": "Serviço de: Logotipo// Cliente: Anderson Araujo// Ferramenta: Inkscape.",
+			"criado": "2019",
+			"imagens": [
+
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-01.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-02.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-03.png"
+
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-anderson/prancheta-00.png",
+			"categoria": ["visual-id", "all"]
+		},
+		{
+			"titulo": "Mr. Dash",
+			"tag": "mr-dash",
+			"descricao": "Serviço: Identidade visual; mascote; ilustração// Cliente: Projeto autoral// Objetivo: desenvolver ID completa para a pizzaria Mr. Dash.// OBS: Logo inspirado no Hi-five, trazendo os sentimentos de amizade e diversão. A identidade também passa seriedade e inovação",
+			"criado": "2021",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-01.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-02.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-03.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-04.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-05.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-06.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-07.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-08.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-09.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-10.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-dash/prancheta-11.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-00.png",
+			"categoria": ["visual-id", "all"]
+		},
+		{
+			"titulo": "Renunciar a si mesmo",
+			"tag": "deny-yourself",
+			"descricao": "Projeto autoral de ilustração aprendizado com Cristo.// Quando queremos alcançar algo maior precisamos deixar algumas coisas, que às vezes, nos parecem boas, mas que não são. Algo pode estar no nosso passado e nos 'perseguir' como uma sombra, mas se mudarmos as luzes com certeza o que será projetado vai ser bem diferente.// É isso que Cristo ensinou quando disse 'Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me'",
+			"criado": "Jan/2023",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta01.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta02.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta00.png",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Todos têm lugar",
+			"tag": "all-have-place",
+			"descricao": "Projeto autoral de ilustração aprendizado com Cristo",
+			"criado": "Feb/2023",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta01.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta02.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta03.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta04.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/todos-tem-lugar/prancheta00.png",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Animação Frame by Frame",
+			"tag": "frame-by-frame-animation",
+			"descricao": "Projetos de animação frame a frame",
+			"criado": "Feb/2023",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/morcego-animado2.gif",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/morcego-animado02.gif",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/aviao-pizza.gif",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/maquina-burguer.gif",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/mexican-food.gif"
+
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/prancheta00.png",
+			"categoria": ["drawings", "all"]
+		}
+	]
 }
