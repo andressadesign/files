@@ -1,10 +1,75 @@
 {
+      "titulo": "RPG Cards",
+      "tag": "rpg-cards",
+      "descricao": "Serviço de: Criação de personagem// Cliente: // Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// Ferramenta: Krita; PhotoShop// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
+      "criado": "Out/2021",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas02.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas03.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas04.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas01.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-ana.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-anao.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-dragao.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfa.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfo.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-gnomo.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-goblin.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-mago.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc01.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc02.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+      "categoria": ["drawings", "all"]
+    },
+{
+      "titulo": "Robos 2",
+      "tag": "robots-2",
+      "descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
+      "criado": "Out/2022",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/desafio-discord-projeto-robo.gif"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
+      "categoria": ["drawings", "all"]
+    },
+{
+      "titulo": "A Sobremesa",
+      "tag": "owl-glasses",
+      "descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.// Ferramenta: Krita",
+      "criado": "Out/2021",
+      "imagens": [
+        
+      ],
+      "thumbnail": 
+      "categoria": ["drawings", "all"]
+    },
+{
+      "titulo": "Porta Óculos",
+      "tag": "owl-glasses",
+      "descricao": "Ilustração desenvolvida para compor o produto porta óculos da Dobra.// Confira esse e outros produtos em parceria na página de produtos. :)",
+      "criado": "Out/2021",
+      "imagens": [
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
+        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
+      "categoria": ["drawings", "all"]
+    },
+{
   "projects":
   [
     {
       "titulo": "Gioia",
       "tag": "gioia",
-      "descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//Técnica: PhotoShop; Illustrator//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
+      "descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//Ferramenta: PhotoShop; Illustrator//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
       "criado": "2022",
       "imagens": [
         
@@ -26,7 +91,7 @@
     {
       "titulo": "Engenheiro",
       "tag": "engineer",
-      "descricao": "Serviço de: Logotipo// Cliente: Anderson Araujo// Técnica: Inkscape.",
+      "descricao": "Serviço de: Logotipo// Cliente: Anderson Araujo// Ferramenta: Inkscape.",
       "criado": "2019",
       "imagens": [
         
@@ -61,62 +126,7 @@
       "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/mr-dash-reduzido/Prancheta-00.png",
       "categoria": ["visual-id", "all"]
     },
-    
-    {
-      "titulo": "RPG Cards",
-      "tag": "rpg-cards",
-      "descricao": "Serviço de: Criação de personagem// Cliente: // Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// Técnica: Krita; PhotoShop// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas03.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas04.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/cartas01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-ana.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-anao.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-dragao.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfa.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-elfo.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-gnomo.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-goblin.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-mago.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc01.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rascunho-final-orc02.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Porta Óculos",
-      "tag": "owl-glasses",
-      "descricao": "Ilustração desenvolvida para compor o produto porta óculos da Dobra.// Confira esse e outros produtos em parceria na página de produtos. :)",
-      "criado": "Out/2021",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/capa-corujas.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    {
-      "titulo": "Robos 2",
-      "tag": "robots-2",
-      "descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
-      "criado": "Out/2022",
-      "imagens": [
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png",
-        "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/desafio-discord-projeto-robo.gif"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
-      "categoria": ["drawings", "all"]
-    },
-    
+        
     {
       "titulo": "Renunciar a si mesmo",
       "tag": "deny-yourself",
