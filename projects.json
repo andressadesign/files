@@ -47,7 +47,9 @@
 			"criado": "Out/2021",
 			"imagens": [
 				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-01-a-sobremesa.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-02-a-sobremesa.jpg"
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-02-a-sobremesa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-03-a-sobremesa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-04-a-sobremesa.jpg"
 			],
 			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/thumb-a-sobremesa.jpg",
 			"categoria": ["drawings", "all"]
