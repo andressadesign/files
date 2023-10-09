@@ -39,6 +39,18 @@
 			"categoria": ["drawings", "all"]
 		},
 		{
+			"titulo": "Rei e lenhador",
+			"tag": "rei-lenha",
+			"descricao": "Projeto acadêmico com o objetivo de desenvolver o personagem pássaro para o conto O Rei e o Lenhador.",
+			"criado": "Out/2022",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta01.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta02.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/robos_thumbnail.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
 			"titulo": "Robos 2",
 			"tag": "robots-2",
 			"descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
