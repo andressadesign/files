@@ -1,8 +1,21 @@
 {
 	"projects": [{
+			"titulo": "O menino que descobriu o vento",
+			"tag": "menino-vento",
+			"descricao": "Serviço de: Ilustração // Cliente: Projeto pessoal // Objetivo: Desenvolver e compor uma ilustração para promoção do filme.",
+			"criado": "Out/2023",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/menino-descobriu.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/menino-descobriu-rasc.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
+		
 			"titulo": "RPG Cards",
 			"tag": "rpg-cards",
-			"descricao": "Serviço de: Criação de personagem// Cliente: // Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// Ferramenta: Krita; PhotoShop// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
+			"descricao": "Serviço de: Criação de personagem// Objetivo: Desenvolver personagem com o propósito de compor coleção online de card-game no estilo TCG (Trading Cards Games).// OBS:Desenvolvidos inicialmente para cada carta ser um NFT.// Inspirados na cultura nórdica e medieval, os personagens trazem o ar de luta, coragem e aventura",
 			"criado": "Out/2021",
 			"imagens": [
 				"https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/MockUp-caixa-baralho-cartas.jpg",
@@ -43,7 +56,7 @@
 		{
 			"titulo": "A Sobremesa",
 			"tag": "owl-glasses",
-			"descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.// Ferramenta: Krita",
+			"descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.",
 			"criado": "Out/2021",
 			"imagens": [
 				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/a-sobremesa-pietro-radio.jpg",
@@ -72,7 +85,7 @@
 		{
 			"titulo": "Gioia",
 			"tag": "gioia",
-			"descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//Ferramenta: PhotoShop; Illustrator//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
+			"descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
 			"criado": "2022",
 			"imagens": [
 
@@ -94,7 +107,7 @@
 		{
 			"titulo": "Engenheiro",
 			"tag": "engineer",
-			"descricao": "Serviço de: Logotipo// Cliente: Anderson Araujo// Ferramenta: Inkscape.",
+			"descricao": "Serviço de: Logotipo// Cliente: Anderson Araujo.",
 			"criado": "2019",
 			"imagens": [
 
