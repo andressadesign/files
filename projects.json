@@ -1,8 +1,22 @@
 {
 	"projects": [{
+			"titulo": "Mascote Pipoca",
+			"tag": "pipoca",
+			"descricao": "Projeto pessoal com o tema pipoca",
+			"criado": "Nov/2023",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/mascotepipoca.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/amigospipoca.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/solopipoca.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/casalpipoca.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
 			"titulo": "O menino que descobriu o vento",
 			"tag": "menino-vento",
-			"descricao": "Serviço de: Ilustração // Cliente: Projeto pessoal // Objetivo: Desenvolver e compor uma ilustração para promoção do filme.",
+			"descricao": "Serviço de: Ilustração // Objetivo: Desenvolver e compor uma ilustração para promoção do filme.",
 			"criado": "Out/2023",
 			"imagens": [
 				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/billboard-menino-vento.png",
