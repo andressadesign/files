@@ -1,5 +1,16 @@
 {
 	"projects": [{
+			"titulo": "Invista em você, invista em leitura",
+			"tag": "invista-leitura",
+			"descricao": "Serviço de: Ilustração",
+			"criado": "JAN/2024",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/invista-leitura.png"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
 			"titulo": "Mascote Pipoca",
 			"tag": "pipoca",
 			"descricao": "Projeto pessoal com o tema pipoca",
