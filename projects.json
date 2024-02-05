@@ -11,6 +11,34 @@
 			"categoria": ["drawings", "all"]
 		},
 		{
+			"titulo": "Família Moto",
+			"tag": "familia-moto",
+			"descricao": "Serviço de: Ilustração; animação",
+			"criado": "Jan/2024",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/familia-moto/familia-moto.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/familia-moto/familia-triciclo.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/familia-moto/familia-triciclo.jpg"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Potifar Petiscaria Vegetariana",
+			"tag": "potifar",
+			"descricao": "Serviço de: Ilustração; animação",
+			"criado": "dez/2024",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/01chefe.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/02chefe.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/03casal.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/04moto.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/video-potifar.jpg"
+			],
+			"thumbnail": "https://raw.githubusercontent.com/andressadesign/files/main/rpg-cards/rpg-cards-thumb.jpg",
+			"categoria": ["drawings", "all"]
+		},
+		{
 			"titulo": "Mascote Pipoca",
 			"tag": "pipoca",
 			"descricao": "Projeto pessoal com o tema pipoca",
