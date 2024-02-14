@@ -104,37 +104,7 @@
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
 		},
-		{
-			"titulo": "Robos 2",
-			"tag": "robots-2",
-			"descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
-			"criado": "Out/2022",
-			"imagens": [
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/desafio-discord-projeto-robo.gif"
-			],
-			"thumbnail": "",
-			"categoria": ["drawings", "all"]
-		},
-		{
-			"titulo": "A Sobremesa",
-			"tag": "owl-glasses",
-			"descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.",
-			"criado": "Out/2021",
-			"imagens": [
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/a-sobremesa-pietro-radio.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-01-a-sobremesa.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-02-a-sobremesa.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/character-design-board-pietro.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-03-a-sobremesa.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-04-a-sobremesa.jpg"
-			],
-			"thumbnail": "",
-			"categoria": ["drawings", "all"]
-		},
+		
 		{
 			"titulo": "Porta Óculos",
 			"tag": "owl-glasses",
@@ -205,6 +175,37 @@
 			],
 			"thumbnail": "",
 			"categoria": ["visual-id", "all"]
+		},
+		{
+			"titulo": "A Sobremesa",
+			"tag": "owl-glasses",
+			"descricao": "Serviço de: Criação de personagem// Cliente: Projeto autoral// Objetivo: Desenvolver personagens para o curta 'A Sobremesa'.",
+			"criado": "Out/2021",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/a-sobremesa-pietro-radio.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-01-a-sobremesa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-02-a-sobremesa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/character-design-board-pietro.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-03-a-sobremesa.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/a-sobremesa/image-04-a-sobremesa.jpg"
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
+		},
+		{
+			"titulo": "Robos 2",
+			"tag": "robots-2",
+			"descricao": "Projeto acadêmico com o objetivo de criar um novo personagem para o filme 'Robôs 2', fictício.// O novo personagem se chama Friagem e teve base no eletrodoméstico geladeira e máquina de refrigerante. Ele é um personagem simpático que leva sua vida comercializando óleo.// Há um jogo com o nome e a personalidade. Ele pode ter um coração gelado, mas é simpático e receptivo com todos.",
+			"criado": "Out/2022",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-1.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-2.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-3.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/criacao-personagens-robosPrancheta-4.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-robos/desafio-discord-projeto-robo.gif"
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
 		},
 		{
 			"titulo": "Renunciar a si mesmo",
