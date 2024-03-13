@@ -1,5 +1,23 @@
 {
 	"projects": [{
+			"titulo": "Instituto de Religião Londrina",
+			"tag": "projeto-instituto",
+			"descricao": "Ilustrações criadas para a sede do Instituto de Religião de Londrina (Centro de ensino religioso aberto a todos os jovens.) // As artes abordam a história local, fatos e a fé dos membros de A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+			"criado": "FEV/2024",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-aula2.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/parede-entrada.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-aula-1.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-aula102.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-jogos1.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-jogos2.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-reuniao.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/instituto/sala-reuniao2.png"
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
+		},
+		{
 			"titulo": "Invista em você, invista em leitura",
 			"tag": "invista-leitura",
 			"descricao": "Serviço de: Ilustração",
