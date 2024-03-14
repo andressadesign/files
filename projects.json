@@ -56,6 +56,20 @@
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
 		},
+		
+		{
+			"titulo": "O menino que descobriu o vento",
+			"tag": "menino-vento",
+			"descricao": "Serviço de: Ilustração // Objetivo: Desenvolver e compor uma ilustração para promoção do filme.",
+			"criado": "Out/2023",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/billboard-menino-vento.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/menino-descobriu.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/menino-descobriu-rasc.png"
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
+		},
 		{
 			"titulo": "Mascote Pipoca",
 			"tag": "pipoca",
@@ -66,19 +80,6 @@
 				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/amigospipoca.png",
 				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/solopipoca.png",
 				"https://raw.githubusercontent.com/andressadesign/files/main/pipoca/casalpipoca.png"
-			],
-			"thumbnail": "",
-			"categoria": ["drawings", "all"]
-		},
-		{
-			"titulo": "O menino que descobriu o vento",
-			"tag": "menino-vento",
-			"descricao": "Serviço de: Ilustração // Objetivo: Desenvolver e compor uma ilustração para promoção do filme.",
-			"criado": "Out/2023",
-			"imagens": [
-				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/billboard-menino-vento.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/menino-descobriu.png",
-				"https://raw.githubusercontent.com/andressadesign/files/main/menino-descobriu-vento/menino-descobriu-rasc.png"
 			],
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
@@ -228,7 +229,7 @@
 		{
 			"titulo": "Renunciar a si mesmo",
 			"tag": "deny-yourself",
-			"descricao": "Projeto autoral de ilustração aprendizado com Cristo.// Quando queremos alcançar algo maior precisamos deixar algumas coisas, que às vezes, nos parecem boas, mas que não são. Algo pode estar no nosso passado e nos 'perseguir' como uma sombra, mas se mudarmos as luzes com certeza o que será projetado vai ser bem diferente.// É isso que Cristo ensinou quando disse 'Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me'",
+			"descricao": "Projeto autoral de ilustração aprendizado com Cristo.// Quando queremos alcançar algo maior precisamos deixar algumas coisas, que às vezes, nos parece bom, mas que não é. //Pode estar no nosso passado e nos 'perseguir' como sombra, mas se mudarmos as luzes com certeza o que será projetado vai ser bem diferente //É isso que Cristo ensinou quando disse 'Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me'//Mude as luzes de sua vida... Sempre é tempo",
 			"criado": "Jan/2023",
 			"imagens": [
 				"https://raw.githubusercontent.com/andressadesign/files/main/renunciar-a-si-mesmo/prancheta02.png",
@@ -250,22 +251,7 @@
 			],
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
-		},
-		{
-			"titulo": "Animação Frame by Frame",
-			"tag": "frame-by-frame-animation",
-			"descricao": "Projetos de animação frame a frame",
-			"criado": "Feb/2023",
-			"imagens": [
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/morcego-animado02.gif",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/morcego-animado2.gif",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/aviao-pizza.gif",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/maquina-burguer.gif",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-motion/mexican-food.gif"
-
-			],
-			"thumbnail": "",
-			"categoria": ["drawings", "all"]
 		}
+		
 	]
 }
