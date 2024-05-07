@@ -50,7 +50,7 @@
 		{
 			"titulo": "Família Moto",
 			"tag": "familia-moto",
-			"descricao": "Serviço de: Ilustração; animação",
+			"descricao": "Projeto pessoal",
 			"criado": "Jan/2024",
 			"imagens": [
 				"https://raw.githubusercontent.com/andressadesign/files/main/familia-moto/familia-moto.jpg",
@@ -69,8 +69,7 @@
 				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/01chefe.jpg",
 				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/02chefe.jpg",
 				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/03casal.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/04moto.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/video-potifar.gif"
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/04moto.jpg"
 			],
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
