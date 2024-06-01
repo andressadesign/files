@@ -62,20 +62,7 @@
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
 		},
-		{
-			"titulo": "Potifar Petiscaria Vegetariana",
-			"tag": "potifar",
-			"descricao": "Serviço de: Ilustração; animação",
-			"criado": "dez/2024",
-			"imagens": [
-				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/01chefe.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/02chefe.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/03casal.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/04moto.jpg"
-			],
-			"thumbnail": "",
-			"categoria": ["drawings", "all"]
-		},
+	
 		
 		{
 			"titulo": "O menino que descobriu o vento",
@@ -143,20 +130,6 @@
 			"thumbnail": "",
 			"categoria": ["drawings", "all"]
 		},
-		
-		{
-			"titulo": "Porta Óculos",
-			"tag": "owl-glasses",
-			"descricao": "Ilustração desenvolvida para compor o produto porta óculos da Dobra.// Confira esse e outros produtos em parceria na página de produtos. :)",
-			"criado": "Out/2021",
-			"imagens": [
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
-				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
-			],
-			"thumbnail": "",
-			"categoria": ["drawings", "all"]
-		},
 		{
 			"titulo": "Gioia",
 			"tag": "gioia",
@@ -179,6 +152,20 @@
 			"thumbnail": "",
 			"categoria": ["visual-id", "all"]
 		},
+		{
+			"titulo": "Porta Óculos",
+			"tag": "owl-glasses",
+			"descricao": "Ilustração desenvolvida para compor o produto porta óculos da Dobra.// Confira esse e outros produtos em parceria na página de produtos. :)",
+			"criado": "Out/2021",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/corujas.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/rascunho-final-corujas.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/projeto-coruja/porta-oculos-frente-verso.jpg"
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
+		},
+		
 		{
 			"titulo": "Engenheiro",
 			"tag": "engineer",
@@ -214,6 +201,20 @@
 			],
 			"thumbnail": "",
 			"categoria": ["visual-id", "all"]
+		},
+		{
+			"titulo": "Potifar Petiscaria Vegetariana",
+			"tag": "potifar",
+			"descricao": "Serviço de: Ilustração; animação",
+			"criado": "dez/2024",
+			"imagens": [
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/01chefe.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/02chefe.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/03casal.jpg",
+				"https://raw.githubusercontent.com/andressadesign/files/main/potifar/04moto.jpg"
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
 		},
 		{
 			"titulo": "A Sobremesa",
