@@ -1,8 +1,35 @@
 {
 	"projects": [{
+			"titulo": "Mirup",
+			"tag": "mirup",
+			"descricao": "Criação e desenvolvimente de naming e identidade visual para mirup energia solar.",
+			"criado": "2024",
+			"imagens": [
+
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image10.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image12.png",
+				"https://youtube.com/embed/ZlxQEHjQFds",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image13.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image11.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image1.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image2.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image6.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image8.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image9.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image5.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image3.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image4.png",
+				"https://raw.githubusercontent.com/andressadesign/files/main/mirup/mirup_image7.png"
+				
+
+			],
+			"thumbnail": "",
+			"categoria": ["visual-id", "all"]
+		},
+		{
 			"titulo": "Gioia",
 			"tag": "gioia",
-			"descricao": "Serviço de: identidade visual; ilustração//Cliente: Gioia Ateliê de Doces// Objetivo: desenvolver identidade visual completa//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
+			"descricao": "Desenvolvimento de identidade visual para Gioia Ateliê de Doces//OBS: O projeto tinha o desafio de manter o dente de leão, por escolha da cliente, (que em italiano é soffione que significa grande sopro, uma referência ao sopro que espalha suas sementes).// Foi pensando no nome Gioia que significa alegria (em italiano), e que a confeitaria proporcionaria momentos felizes, desenvolvi uma semente de dente de leão em formato de sorriso, que fortalece a missão da marca de espalhar alegria.// Símbolo único, simples, delicado e cheio de significados.",
 			"criado": "2022",
 			"imagens": [
 
