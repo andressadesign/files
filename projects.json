@@ -1,5 +1,18 @@
 {
 	"projects": [{
+			"titulo": "Campanha vacinação pet",
+			"tag": "vacina",
+			"descricao": "Projeto pessoal para campanha de vacinação.",
+			"criado": "2024",
+			"imagens": [
+
+				"https://raw.githubusercontent.com/andressadesign/files/main/vacina_pet_image1.png"
+
+			],
+			"thumbnail": "",
+			"categoria": ["drawings", "all"]
+	        },
+		{
 			"titulo": "Mirup",
 			"tag": "mirup",
 			"descricao": "Criação e desenvolvimente de naming e identidade visual para mirup energia solar.",
