@@ -196,21 +196,7 @@
                 "drawings",
                 "all"
             ]
-        },
-        {
-            "titulo": "Rei e lenhador",
-            "tag": "rei-lenha",
-            "descricao": "Projeto acadêmico com o objetivo de desenvolver o personagem pássaro para o conto O Rei e o Lenhador.",
-            "criado": "Out/2022",
-            "imagens": [
-                "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta01.png",
-                "https://raw.githubusercontent.com/andressadesign/files/main/projeto-rei-lenhador/prancheta02.png"
-            ],
-            "thumbnail": "",
-            "categoria": [
-                "drawings",
-                "all"
-            ]
         }
+        
     ]
 }
